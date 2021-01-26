@@ -1,0 +1,29 @@
+{
+  "name": "@imu-web-monitor/server",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "miyoo <thenear@sina.com>",
+  "homepage": "https://github.com/michaelycy/imu-monitor/tree/master/packages/server#readme",
+  "license": "ISC",
+  "main": "lib/server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelycy/imu-web-monitor.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/michaelycy/imu-web-monitor/issues"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}

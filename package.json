@@ -1,0 +1,29 @@
+{
+  "name": "imu-monitor",
+  "version": "1.0.0",
+  "description": "imu 前端系统错误监控",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelycy/imu-monitor.git"
+  },
+  "keywords": [
+    "monitor"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelycy/imu-monitor/issues"
+  },
+  "homepage": "https://github.com/michaelycy/imu-monitor#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
